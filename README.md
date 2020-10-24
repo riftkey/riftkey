@@ -19,3 +19,15 @@ Im also new to programming and currently have vague goals on what to do
 but i am interested in learning more
 My hobby is playing soccer, playing games, and learn how to code
 I also like fried rice
+
+Here's my linkedIn URL : www.linkedin.com/in/muhammad-rifqi-riansyah-matondang-300b291b7
+
+
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning at STEI ITB
+- 👯 I’m looking to collaborate on Something rookie level related
+- 🤔 I’m looking for help with how to use github
+- 💬 Ask me about anything
+- 📫 How to reach me: rifqimatondang@gmail.com
+- 😄 Pronouns: si anjay
+- ⚡ Fun fact: Im a slow learner 
