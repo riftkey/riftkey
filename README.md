@@ -24,7 +24,7 @@ Here's my linkedIn URL : www.linkedin.com/in/muhammad-rifqi-riansyah-matondang-3
 
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning at STEI ITB
+- 🌱 I’m currently learning at Information Technology and Systems Major at Bandung Institute of Technology
 - 👯 I’m looking to collaborate on Something rookie level related
 - 🤔 I’m looking for help with how to use github
 - 💬 Ask me about anything
